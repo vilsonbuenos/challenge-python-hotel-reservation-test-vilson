@@ -1,7 +1,5 @@
-Nearly empty Python3 project with a failing test!
+Resolution of the Syngenta Digital selection process challenge
 ===
-
-**DO NOT change the names of the function (get_cheapest_hotel) or of the file and folder it is in, changing it implies in disqualification.** 
 
 **Ensure that you have Python 3 installed and that your PIP installation points to it**
 
@@ -16,7 +14,7 @@ $ pip3 install -r requirements.txt
 ```
 
 
-To run the (failing) test:
+To run the test:
 
 ```
 $ py.test
