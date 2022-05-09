@@ -1,4 +1,4 @@
-Resolution of the Syngenta Digital selection process challenge
+Vilson's resolution of the Syngenta Digital selection process challenge
 ===
 
 **Ensure that you have Python 3 installed and that your PIP installation points to it**
